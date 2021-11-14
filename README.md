@@ -4,5 +4,5 @@ Portfolio app
 
 ## Available Scripts
 
-
+### `npm install`
 ### `npm start`
